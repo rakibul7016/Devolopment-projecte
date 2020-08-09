@@ -1,0 +1,44 @@
+.log{
+    font-size: large;
+    font-weight: bold;
+}
+span{
+    color: orange;
+}
+.header-img{
+    height: 600px;
+    width: 1280px;
+}
+
+/* order now section */
+.order-now{
+    min-height: 25rem;
+    background-image: url(../img/oder-now-bg.png);
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-size: contain;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
+    position: absolute;
+    max-width: 86rem;
+    width: 100%;
+    top:77%;
+    left: 40.4%;
+    transform: translate(-35%);
+}
+.order-now .form{
+    float:right;
+    max-width: 60rem;
+    background-color:#fff;
+    min-height: 35rem;
+    height: 100%;
+    width: 100%;
+    padding-top: 5%;
+    text-align: center;
+}
+.order-now-form{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 1rem;
+    padding: 2rem 2rem;
+    box-sizing: border-box;
+}

@@ -1,0 +1,84 @@
+html{
+   
+    scroll-behavior: smooth;
+}
+.logo{
+    height: 80px;
+    width: 80px;
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    background: #c48d29;
+}
+.nav-bar ul li a{
+    padding:20px ;
+    color: white;
+}
+.more{
+    float: right;
+    font-family: 'Grenze Gotisch', cursive;
+}
+.post{
+    margin-bottom: 100px;
+}
+h1{
+    font-family: 'Russo One', sans-serif;
+
+}
+.post h1{
+font-family: 'Russo One', sans-serif;
+font-size: 30px;
+}
+.post p{
+    font-size: 18px;
+    font-family: 'Grenze Gotisch', cursive;
+    color: black;
+    
+}
+.main-contain{
+    background: #FFEBCD;
+    margin-left: 20px;
+    border: 1px solid #EE9A4D;
+    margin-bottom: 20px;
+}
+.sidebar{
+    background: #FFEBCD;
+    margin-left: 40px;
+    border: 1px solid #EE9A4D;
+    margin-bottom: 20px;
+}
+.contract{
+    margin-top: 20px;
+}
+.contract textarea{
+    margin-top: 20px;
+    padding-left: ;
+}
+.team{
+    padding-left: 70px;
+}
+.samesidebar{
+    padding: 10px;
+}
+.samesidebar h2{
+    background: #EE9A4D;
+    padding: 10px;
+    font-size: 30px;
+    color: black;
+    font-family: 'Russo One', sans-serif;
+    margin-bottom: 8px;
+    border-bottom: 2px solid black;
+}
+.samesidebar img{
+    height: 150px;
+    width: 380px;
+}
+.footer{
+    background: #c48d29;
+   
+    height: 100px;
+}
+.footer p{
+    padding-top: 40px;
+}
